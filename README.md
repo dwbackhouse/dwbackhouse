@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dwbackhouse
 - 👀 I’m interested in learning code & project manage bigger software projects
-- 🌱 I’m currently learning Python & SQL
+- 🌱 I’m currently learning Java, Python & SQL - https://replit.com/@dwbackhouse
 - 💞️ I’m looking to collaborate on RaspberryPi software
 - 📫 How to reach me email or inbox
 
